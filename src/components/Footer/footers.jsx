@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className='footer'>
         <p>© 2024 Arcee Photography. All rights reserved.</p>
-        <ul> 
+        <ul>  
             <li>Terms of Service</li>
             <li>Privacy Policy</li>
         </ul> 
