@@ -7,7 +7,7 @@ import About from './components/About/About'
 import Album from './components/Album/Album'
 import Testimonials from './components/Testimonials/testimonials'
 import Contact from './components/Contact/Contact'
-import Footer from './components/Footer/Footer'
+import Footer from './components/Footer/footer'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
 
 const App = () => {
