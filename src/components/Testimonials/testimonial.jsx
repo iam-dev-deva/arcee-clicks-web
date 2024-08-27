@@ -9,7 +9,7 @@ import user_4 from '../../assets/user-4.png'
 
 
 
-const Testimonials = () => {
+const Testimonials = () => { 
     const slider = useRef();
     let tx = 0; 
 
