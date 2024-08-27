@@ -1,5 +1,5 @@
 import React from 'react'
-import './stories.css'
+import './Stories.css'
 import story_1 from '../../assets/program-1.jpg'
 import story_2 from '../../assets/program-2.jpg'
 import story_3 from '../../assets/program-3.jpg'
