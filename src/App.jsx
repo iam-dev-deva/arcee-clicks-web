@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import NavBar from './components/nav-bar/nav-bar'
 import Hero from './components/Hero/Hero'
-import Stories from './components/Stories/Stories'
+import Stories from './components/stories/stories'
 import Title from './components/Title/Title'
 import About from './components/About/About'
 import Album from './components/Album/Album'

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Stories.css'
+import './stories.css'
 import story_1 from '../../assets/program-1.jpg'
 import story_2 from '../../assets/program-2.jpg'
 import story_3 from '../../assets/program-3.jpg'
@@ -7,7 +7,7 @@ import story_icon_1 from '../../assets/program-icon-1.svg'
 import story_icon_2 from '../../assets/program-icon-2.svg'
 import story_icon_3 from '../../assets/program-icon-3.svg'
 
-const Stories = () => {
+const stories = () => {
   return (
     <div className='stories'>
         <div className='story'>
@@ -35,4 +35,4 @@ const Stories = () => {
   )
 }
 
-export default Stories
+export default stories
