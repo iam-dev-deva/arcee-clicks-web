@@ -11,7 +11,7 @@ import user_4 from '../../assets/user-4.png'
 
 const Testimonials = () => {
     const slider = useRef();
-    let tx = 0;
+    let tx = 0; 
 
     const slideForward = ()=>{
         if(tx > -50){
