@@ -5,7 +5,7 @@ import Stories from './components/stories/stories'
 import Title from './components/Title/title'
 import About from './components/About/About'
 import Album from './components/Album/Album'
-import Testimonials from './components/Testimonials/testimonial'
+import Testimonial from './components/Testimonials/testimonial'
 import Contact from './components/Contact/Contact'
 import Footer from './components/Footer/footers'
 import VideoPlayer from './components/VideoPlayer/VideoPlayer'
@@ -23,7 +23,7 @@ const App = () => {
         <Title subTitle='Some of Fav' title='Album' />
         <Album/>
         <Title subTitle='Testimonials' title='Client Comments' />
-        <Testimonials/>
+        <Testimonial/>
         <Title subTitle='Contact Us' title='Get in Touch' />
         <Contact/>
         <Footer/>
