@@ -7,7 +7,7 @@ import story_icon_1 from '../../assets/program-icon-1.svg'
 import story_icon_2 from '../../assets/program-icon-2.svg'
 import story_icon_3 from '../../assets/program-icon-3.svg'
 
-const stories = () => {
+const Stories = () => {
   return (
     <div className='stories'>
         <div className='story'>
@@ -35,4 +35,4 @@ const stories = () => {
   )
 }
 
-export default stories
+export default Stories
