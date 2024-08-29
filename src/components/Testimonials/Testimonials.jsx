@@ -2,12 +2,7 @@ import React, { useRef } from 'react'
 import './ctestimonial.css'
 import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
-import user_1 from '../../assets/user-1.png'
-import user_2 from '../../assets/user-2.png'
-import user_3 from '../../assets/user-3.png'
-import user_4 from '../../assets/user-4.png'
-
-
+import source from '../../assets/source.json'
 
 const Testimonial = () => { 
     const slider = useRef();
@@ -35,7 +30,7 @@ const Testimonial = () => {
             <li>
                 <div className="slide">
                     <div className="user-info">
-                        <img src={user_1} alt="" />
+                        <img src={source['user-1']} alt="" />
                         <div>
                             <h3>Kiruthi</h3>
                             <span>Karur, TamilNadu</span>
@@ -51,7 +46,7 @@ const Testimonial = () => {
             <li>
                 <div className="slide">
                     <div className="user-info">
-                        <img src={user_2} alt="" />
+                        <img src={source['user-2']} alt="" />
                         <div>
                             <h3>SK</h3>
                             <span>Chennai, TamilNadu</span>
@@ -67,7 +62,7 @@ const Testimonial = () => {
             <li>
                 <div className="slide">
                     <div className="user-info">
-                        <img src={user_3} alt="" />
+                        <img src={source['user-3']} alt="" />
                         <div>
                             <h3>Sakura</h3>
                             <span>Leaf Village</span>
@@ -83,10 +78,40 @@ const Testimonial = () => {
             <li>
                 <div className="slide">
                     <div className="user-info">
-                        <img src={user_4} alt="" />
+                        <img src={source['user-4']} alt="" />
                         <div>
                             <h3>Luffy</h3>
                             <span>Marine</span>
+                        </div>
+                    </div>
+                    <p>Wow, we are absolutely in love with the photographs you captured of our special day! 
+                        Thank you so much!! It was really wonderful and meaningful when we viewed
+                         your photos - we felt we got to relive it.</p>
+                         
+                </div>
+            </li>
+            <li>
+                <div className="slide">
+                    <div className="user-info">
+                        <img src={source['user-5']} alt="" />
+                        <div>
+                            <h3>Itachi</h3>
+                            <span>Konan</span>
+                        </div>
+                    </div>
+                    <p>Wow, we are absolutely in love with the photographs you captured of our special day! 
+                        Thank you so much!! It was really wonderful and meaningful when we viewed
+                         your photos - we felt we got to relive it.</p>
+                         
+                </div>
+            </li>
+            <li>
+                <div className="slide">
+                    <div className="user-info">
+                        <img src={source['user-2']} alt="" />
+                        <div>
+                            <h3>Konan</h3>
+                            <span>rain</span>
                         </div>
                     </div>
                     <p>Wow, we are absolutely in love with the photographs you captured of our special day! 
