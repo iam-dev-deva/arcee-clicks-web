@@ -32,8 +32,8 @@ const Testimonial = () => {
                     <div className="user-info">
                         <img src={source['user-1']} alt="" />
                         <div>
-                            <h3>Kiruthi</h3>
-                            <span>Karur, TamilNadu</span>
+                            <h3>SK</h3>
+                            <span>Karur</span>
                         </div>
                     </div>
                     <p>I am so pleased with these headshots. 
@@ -48,8 +48,8 @@ const Testimonial = () => {
                     <div className="user-info">
                         <img src={source['user-2']} alt="" />
                         <div>
-                            <h3>SK</h3>
-                            <span>Chennai, TamilNadu</span>
+                            <h3>Vijay</h3>
+                            <span>Chennai</span>
                         </div>
                     </div>
                     <p>I am absolutely thrilled with the photos.
@@ -65,7 +65,7 @@ const Testimonial = () => {
                         <img src={source['user-3']} alt="" />
                         <div>
                             <h3>Sakura</h3>
-                            <span>Leaf Village</span>
+                            <span>Konahnan</span>
                         </div>
                     </div>
                     <p>Thank you so so much, Ronny! 
@@ -82,36 +82,6 @@ const Testimonial = () => {
                         <div>
                             <h3>Luffy</h3>
                             <span>Marine</span>
-                        </div>
-                    </div>
-                    <p>Wow, we are absolutely in love with the photographs you captured of our special day! 
-                        Thank you so much!! It was really wonderful and meaningful when we viewed
-                         your photos - we felt we got to relive it.</p>
-                         
-                </div>
-            </li>
-            <li>
-                <div className="slide">
-                    <div className="user-info">
-                        <img src={source['user-5']} alt="" />
-                        <div>
-                            <h3>Itachi</h3>
-                            <span>Konan</span>
-                        </div>
-                    </div>
-                    <p>Wow, we are absolutely in love with the photographs you captured of our special day! 
-                        Thank you so much!! It was really wonderful and meaningful when we viewed
-                         your photos - we felt we got to relive it.</p>
-                         
-                </div>
-            </li>
-            <li>
-                <div className="slide">
-                    <div className="user-info">
-                        <img src={source['user-2']} alt="" />
-                        <div>
-                            <h3>Konan</h3>
-                            <span>rain</span>
                         </div>
                     </div>
                     <p>Wow, we are absolutely in love with the photographs you captured of our special day! 

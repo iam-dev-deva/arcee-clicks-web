@@ -2,6 +2,7 @@ import React from 'react'
 import './Album.css'
 import source from '../../assets/source.json'
 import white_arrow from '../../assets/white-arrow.png'
+import { Link, Button, Element, Events, animateScroll as scroll, scrollSpy } from 'react-scroll';
 
 const Album = () => {
   return (
@@ -16,7 +17,7 @@ const Album = () => {
             <img src={source.albums[0]['album-7']} alt="" />
             <img src={source.albums[0]['album-8']} alt="" />
         </div>
-        <button className='btn dark-btn'>See more<img src={white_arrow} alt="" /></button>
+        <a target='blank' href='https://www.instagram.com/arcee_clicks?igsh=NjNjNHkwMDM2bDFs' className='btn dark-btn'>See more<img src={white_arrow} alt="" /></a>
     </div>
   )
 }

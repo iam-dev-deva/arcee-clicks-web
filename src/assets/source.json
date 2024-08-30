@@ -10,6 +10,7 @@
             "album-1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-1-min.jpg",
             "album-2": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-2-min.jpg",
             "album-3": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-3-min.jpg",
+            "album-3.1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-3.jpg",
             "album-4": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-4-min.jpg",
             "album-5": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-5-min.jpg",
             "album-6": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-6-min.jpg",
@@ -18,7 +19,6 @@
             "album-9": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-9-min.jpg",
             "album-10": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-10-min.jpg",
             "album-11": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-11-min.jpg",
-            "album-12": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-12-min.jpg",
             "album-13": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-13-min.jpg",
             "album-14": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-14-min.jpg",
             "album-15": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-15-min.jpg",
@@ -29,10 +29,11 @@
             "album-20": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-20-min.jpg"
         }
     ],
-    "program-1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/program-1-min.jpg",
-    "program-2": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/program-2-min.jpg",
-    "program-3": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/program-3-min.jpg",
-    "gallery-1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-1-min.jpg",
+    
+    "program-1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-3.jpg",
+    "program-2": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-4.jpg",
+    "program-3": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-6.jpg",
+    "gallery-1": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-mobile.jpg",
     "gallery-2": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-2-min.jpg",
     "gallery-3": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-3-min.jpg",
     "gallery-4": "https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/gallery/gallery-4-min.jpg",
@@ -44,5 +45,10 @@
     "user-2":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-2.png",
     "user-3":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-3.png",
     "user-4":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-4.png",
-    "user-5":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-5.png"
+    "user-5":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-5.png",
+    "user-6":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-6.png",
+    "user-7":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-7.png",
+    "user-8":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-8.png",
+    "user-9":"https://raw.githubusercontent.com/iam-dev-deva/web-files-source/main/arcee/user-9.png"
+
 }
